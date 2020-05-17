@@ -1,0 +1,5 @@
+id		product		price		quantity
+___		_______		_____		________
+001		apples		$1.99		5
+002		oranges		$4.99		3
+003		pears		$5.99		9
